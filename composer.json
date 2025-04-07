@@ -1,0 +1,5 @@
+{
+  "name": "roni/telegram-bot",
+  "description": "Simple PHP Telegram Bot",
+  "require": {}
+}
