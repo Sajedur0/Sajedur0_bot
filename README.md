@@ -1,6 +1,6 @@
 # Sajedur0 Telegram Bot
 
-A simple yet powerful Telegram bot built in **PHP**, designed to deliver useful tools, codes, fonts, and downloadable files to users. Hosted on **Render** and open for all!
+A simple yet powerful Telegram bot built in **Python**, designed to deliver useful tools, codes, fonts, and downloadable files to users. Hosted on **Render** and open for all!
 
 ## Features
 
