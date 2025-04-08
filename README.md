@@ -14,7 +14,7 @@ A simple yet powerful Telegram bot built in **PHP**, designed to deliver useful 
 
 ## Live Bot
 
-[Click to Open in Telegram](https://t.me/Sajedur0Bot)
+[Click to Open in Telegram](https://t.me/Sajedur0_Bot)
 
 ---
 
